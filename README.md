@@ -76,12 +76,4 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 
 ## 🐦 Follow Me:
 
-> [Dev Community](https://dev.to/ayushkanduri)
-
-> [Twitter](https://twitter.com/ayush_codes)
-
-> [LinkedIn](https://www.linkedin.com/in/ayushkanduri/)
-
-> [YouTube](https://www.youtube.com/channel/UC6c1ajC_2jF7wQp7Y13t2bg)
-
-I hope you like the project. Thanks for reading :)
+>
